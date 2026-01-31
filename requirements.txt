@@ -49,3 +49,9 @@ traitlets==5.14.3
 tzdata==2025.3
 urllib3==2.6.3
 wcwidth==0.2.14
+streamlit
+pandas
+python-dotenv
+langchain==0.1.0
+langchain_community
+langchain_google_genai
