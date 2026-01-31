@@ -52,6 +52,6 @@ wcwidth==0.2.14
 streamlit
 pandas
 python-dotenv
-langchain==0.1.0
+langchain
 langchain_community
 langchain_google_genai
